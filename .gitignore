@@ -13,4 +13,8 @@ vignettes/*.html
 vignettes/*.pdf
 
 # don't commit input data
-repdata-data-StormData.csv
+StormData.csv
+*.bz2
+
+# don't commit cache
+weather_effects_cache
